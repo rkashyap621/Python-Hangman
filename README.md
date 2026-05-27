@@ -1,4 +1,5 @@
 # Python-Hangman
+![Hangman_image](https://i.postimg.cc/rwGnpS6v/GH.png)
 Enjoy the classic Hangman with a twist of ASCII arts and python!
 
 # Fun Fact:
