@@ -7,4 +7,4 @@ The American game show Wheel of Fortune was inspired by hangman. Merv Griffin co
 
 Brazil also had a show in the 1960s and again from 2012 to 2013 called Let's Play Hangman, hosted by Silvio Santos. Brazil would later get its own version of Wheel of Fortune, running from 1980 to 1993, again from 2003 to 2012 (during which the new Let's Play Hangman aired), and again since 2013 to the present. These shows were also hosted by Santos.
 
-Source: Wikipedia
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Hangman_(game))
